@@ -26,5 +26,5 @@ Eudaimonia’s voice recognition feature analyzes students’ vocal cues to prov
 > [!NOTE]
 > Expressing emotions vocally activates different parts of the brain, enhancing self-awareness and emotional regulation.
 
-
+![](https://github.com/Bossgod360/Eudaimonia/blob/main/Eudaimonia.png)
 
